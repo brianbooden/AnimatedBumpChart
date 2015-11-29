@@ -1,0 +1,19 @@
+.qv-object-AnimatedLine body {
+  font: 8px sans-serif;
+}
+
+.qv-object-AnimatedLine .x.axis path,.x.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.qv-object-AnimatedLine .y.axis path {
+  fill: none;
+}
+
+.qv-object-AnimatedLine .y.axis line {
+  fill: none;
+  stroke: #eeeeee;
+  shape-rendering: crispEdges;
+}
