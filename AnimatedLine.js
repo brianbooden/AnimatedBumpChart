@@ -102,18 +102,21 @@ define(["jquery","qlik", "./d3.v3.min", "css!./AnimatedLine.css"],function ($, q
 				.duration(speed)
 				.each("start", function start() {
 
+				// Transition the label to the correct location
 				  label.transition()
 					.duration(speed)
 					.ease('linear')
 					.attr("transform", function(d) { return "translate(" + x(d.values[matchday].matchday) + "," + (y(d.values[matchday].position) + y.rangeBand()/2) + ")"; })
 					.text(function(d) { return "#"+ d.values[matchday].position + " " + d.key; });
-			  
+					
+				// Transition the end circle
 				  circleEnd.transition()
 					.duration(speed)
 					.ease('linear')
 					.attr("cx", function(d) { return x(d.values[matchday].matchday); })
 					.attr("cy", function(d) { return y(d.values[matchday].position) + y.rangeBand()/2; });
 
+				// Transition the animation and clip path
 				  clip.transition()
 					.duration(speed)
 					.ease('linear')
@@ -122,11 +125,11 @@ define(["jquery","qlik", "./d3.v3.min", "css!./AnimatedLine.css"],function ($, q
 				  
 				  matchday+=1;
 
+				// Check to see if all transitions are complete
 				  if (matchday !== nestedData[0].values.length) transition = transition.transition().each("start", start);
 				 
 				});
 					
-
 		  });
 
 			// Set margins
@@ -215,12 +218,13 @@ define(["jquery","qlik", "./d3.v3.min", "css!./AnimatedLine.css"],function ($, q
 			// Grab the max week number and position
 			var maxLength = d3.max(nestedData, function (d) { return d.values.length; }) - 1;
 			var domainLength = d3.max(nestedData, function (d) { return d.values[0].position; });
+			var maxWeekNumber = d3.max(nestedData, function (d) { return d.values[0].matchday; });
+			var minWeekNumber = d3.min(nestedData, function (d) { return d.values[0].matchday; });
 			
 			// Set the colour scale based on the colorpalette
 			var colorScale = d3.scale.ordinal()
 							.domain([0, domainLength])
 							.range(colorpalette);
-			
 			
 			var x = d3.scale.linear()
 				.range([0, width]);
@@ -295,7 +299,7 @@ define(["jquery","qlik", "./d3.v3.min", "css!./AnimatedLine.css"],function ($, q
 				.data(nestedData)
 				.enter().append("g")
 				.attr("class", "club");
-
+				
 			// Define the line style
 			var path = club.append("path")
 			  .attr("class", "line")
@@ -305,6 +309,7 @@ define(["jquery","qlik", "./d3.v3.min", "css!./AnimatedLine.css"],function ($, q
 			  .attr("clip-path", "url( " + document.URL + "#clip)") // fixes AngularJS problem because of: <base href="/">
 			  .attr("d", function(d) { return line(d.values); })
 			  ;
+			  
 			// Draw the circle at the start of each line
 			var circleStart = club.append("circle")
 			  .attr("cx", function(d) { return x(d.values[0].matchday); })
