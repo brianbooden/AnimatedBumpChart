@@ -1,0 +1,761 @@
+standing__teamName,standing__rank__matchday,standing__rank__position
+Paris SG,1,10
+Paris SG,2,3
+Paris SG,3,6
+Paris SG,4,2
+Paris SG,5,5
+Paris SG,6,5
+Paris SG,7,4
+Paris SG,8,4
+Paris SG,9,3
+Paris SG,10,2
+Paris SG,11,2
+Paris SG,12,2
+Paris SG,13,2
+Paris SG,14,2
+Paris SG,15,2
+Paris SG,16,2
+Paris SG,17,2
+Paris SG,18,2
+Paris SG,19,3
+Paris SG,20,4
+Paris SG,21,3
+Paris SG,22,3
+Paris SG,23,3
+Paris SG,24,3
+Paris SG,25,3
+Paris SG,26,2
+Paris SG,27,2
+Paris SG,28,2
+Paris SG,29,2
+Paris SG,30,1
+Paris SG,31,1
+Paris SG,32,1
+Paris SG,33,1
+Paris SG,34,1
+Paris SG,35,1
+Paris SG,36,1
+Paris SG,37,1
+Paris SG,38,1
+Bastia,1,8
+Bastia,2,15
+Bastia,3,9
+Bastia,4,13
+Bastia,5,14
+Bastia,6,18
+Bastia,7,16
+Bastia,8,16
+Bastia,9,19
+Bastia,10,16
+Bastia,11,18
+Bastia,12,19
+Bastia,13,15
+Bastia,14,15
+Bastia,15,19
+Bastia,16,20
+Bastia,17,20
+Bastia,18,18
+Bastia,19,19
+Bastia,20,14
+Bastia,21,15
+Bastia,22,15
+Bastia,23,16
+Bastia,24,15
+Bastia,25,13
+Bastia,26,10
+Bastia,27,14
+Bastia,28,10
+Bastia,29,12
+Bastia,30,13
+Bastia,31,14
+Bastia,32,14
+Bastia,33,16
+Bastia,34,13
+Bastia,35,12
+Bastia,36,10
+Bastia,37,11
+Bastia,38,12
+Bordeaux,1,6
+Bordeaux,2,1
+Bordeaux,3,1
+Bordeaux,4,1
+Bordeaux,5,3
+Bordeaux,6,2
+Bordeaux,7,2
+Bordeaux,8,2
+Bordeaux,9,2
+Bordeaux,10,3
+Bordeaux,11,6
+Bordeaux,12,4
+Bordeaux,13,4
+Bordeaux,14,5
+Bordeaux,15,4
+Bordeaux,16,6
+Bordeaux,17,5
+Bordeaux,18,5
+Bordeaux,19,6
+Bordeaux,20,6
+Bordeaux,21,7
+Bordeaux,22,7
+Bordeaux,23,7
+Bordeaux,24,6
+Bordeaux,25,6
+Bordeaux,26,6
+Bordeaux,27,7
+Bordeaux,28,6
+Bordeaux,29,6
+Bordeaux,30,6
+Bordeaux,31,6
+Bordeaux,32,6
+Bordeaux,33,6
+Bordeaux,34,6
+Bordeaux,35,6
+Bordeaux,36,6
+Bordeaux,37,6
+Bordeaux,38,6
+Caen,1,1
+Caen,2,9
+Caen,3,4
+Caen,4,9
+Caen,5,12
+Caen,6,10
+Caen,7,14
+Caen,8,13
+Caen,9,17
+Caen,10,18
+Caen,11,15
+Caen,12,15
+Caen,13,17
+Caen,14,16
+Caen,15,17
+Caen,16,18
+Caen,17,19
+Caen,18,20
+Caen,19,20
+Caen,20,20
+Caen,21,20
+Caen,22,18
+Caen,23,15
+Caen,24,14
+Caen,25,15
+Caen,26,14
+Caen,27,12
+Caen,28,14
+Caen,29,14
+Caen,30,14
+Caen,31,12
+Caen,32,13
+Caen,33,13
+Caen,34,15
+Caen,35,14
+Caen,36,13
+Caen,37,15
+Caen,38,13
+Evian TG,1,20
+Evian TG,2,20
+Evian TG,3,20
+Evian TG,4,20
+Evian TG,5,20
+Evian TG,6,20
+Evian TG,7,20
+Evian TG,8,18
+Evian TG,9,15
+Evian TG,10,17
+Evian TG,11,19
+Evian TG,12,20
+Evian TG,13,16
+Evian TG,14,18
+Evian TG,15,16
+Evian TG,16,14
+Evian TG,17,15
+Evian TG,18,17
+Evian TG,19,18
+Evian TG,20,18
+Evian TG,21,18
+Evian TG,22,16
+Evian TG,23,18
+Evian TG,24,18
+Evian TG,25,18
+Evian TG,26,16
+Evian TG,27,16
+Evian TG,28,16
+Evian TG,29,17
+Evian TG,30,16
+Evian TG,31,15
+Evian TG,32,15
+Evian TG,33,17
+Evian TG,34,18
+Evian TG,35,18
+Evian TG,36,18
+Evian TG,37,18
+Evian TG,38,18
+Guingamp,1,18
+Guingamp,2,13
+Guingamp,3,16
+Guingamp,4,18
+Guingamp,5,16
+Guingamp,6,19
+Guingamp,7,19
+Guingamp,8,20
+Guingamp,9,20
+Guingamp,10,19
+Guingamp,11,20
+Guingamp,12,16
+Guingamp,13,18
+Guingamp,14,19
+Guingamp,15,20
+Guingamp,16,17
+Guingamp,17,16
+Guingamp,18,13
+Guingamp,19,13
+Guingamp,20,13
+Guingamp,21,13
+Guingamp,22,12
+Guingamp,23,11
+Guingamp,24,10
+Guingamp,25,8
+Guingamp,26,8
+Guingamp,27,11
+Guingamp,28,13
+Guingamp,29,10
+Guingamp,30,10
+Guingamp,31,11
+Guingamp,32,12
+Guingamp,33,12
+Guingamp,34,11
+Guingamp,35,10
+Guingamp,36,11
+Guingamp,37,10
+Guingamp,38,10
+Lens,1,16
+Lens,2,18
+Lens,3,15
+Lens,4,11
+Lens,5,9
+Lens,6,13
+Lens,7,15
+Lens,8,14
+Lens,9,18
+Lens,10,20
+Lens,11,16
+Lens,12,17
+Lens,13,19
+Lens,14,20
+Lens,15,18
+Lens,16,19
+Lens,17,18
+Lens,18,19
+Lens,19,16
+Lens,20,19
+Lens,21,19
+Lens,22,19
+Lens,23,19
+Lens,24,19
+Lens,25,19
+Lens,26,19
+Lens,27,19
+Lens,28,19
+Lens,29,19
+Lens,30,19
+Lens,31,20
+Lens,32,19
+Lens,33,20
+Lens,34,20
+Lens,35,20
+Lens,36,20
+Lens,37,20
+Lens,38,20
+Lille,1,12
+Lille,2,7
+Lille,3,3
+Lille,4,3
+Lille,5,1
+Lille,6,4
+Lille,7,5
+Lille,8,3
+Lille,9,4
+Lille,10,8
+Lille,11,11
+Lille,12,12
+Lille,13,14
+Lille,14,10
+Lille,15,11
+Lille,16,12
+Lille,17,12
+Lille,18,11
+Lille,19,11
+Lille,20,11
+Lille,21,12
+Lille,22,13
+Lille,23,13
+Lille,24,11
+Lille,25,11
+Lille,26,12
+Lille,27,9
+Lille,28,8
+Lille,29,8
+Lille,30,8
+Lille,31,8
+Lille,32,8
+Lille,33,8
+Lille,34,8
+Lille,35,8
+Lille,36,8
+Lille,37,8
+Lille,38,8
+Lorient,1,5
+Lorient,2,5
+Lorient,3,12
+Lorient,4,6
+Lorient,5,8
+Lorient,6,11
+Lorient,7,17
+Lorient,8,17
+Lorient,9,14
+Lorient,10,15
+Lorient,11,17
+Lorient,12,18
+Lorient,13,20
+Lorient,14,17
+Lorient,15,15
+Lorient,16,16
+Lorient,17,17
+Lorient,18,14
+Lorient,19,15
+Lorient,20,16
+Lorient,21,14
+Lorient,22,15
+Lorient,23,17
+Lorient,24,16
+Lorient,25,16
+Lorient,26,17
+Lorient,27,17
+Lorient,28,17
+Lorient,29,15
+Lorient,30,17
+Lorient,31,17
+Lorient,32,16
+Lorient,33,18
+Lorient,34,16
+Lorient,35,15
+Lorient,36,14
+Lorient,37,16
+Lorient,38,16
+Lyon,1,2
+Lyon,2,10
+Lyon,3,13
+Lyon,4,17
+Lyon,5,13
+Lyon,6,12
+Lyon,7,8
+Lyon,8,10
+Lyon,9,6
+Lyon,10,4
+Lyon,11,3
+Lyon,12,3
+Lyon,13,3
+Lyon,14,3
+Lyon,15,3
+Lyon,16,3
+Lyon,17,3
+Lyon,18,3
+Lyon,19,2
+Lyon,20,1
+Lyon,21,1
+Lyon,22,1
+Lyon,23,1
+Lyon,24,1
+Lyon,25,1
+Lyon,26,1
+Lyon,27,1
+Lyon,28,1
+Lyon,29,1
+Lyon,30,2
+Lyon,31,2
+Lyon,32,2
+Lyon,33,2
+Lyon,34,2
+Lyon,35,2
+Lyon,36,2
+Lyon,37,2
+Lyon,38,2
+Marseille,1,8
+Marseille,2,15
+Marseille,3,9
+Marseille,4,4
+Marseille,5,2
+Marseille,6,1
+Marseille,7,1
+Marseille,8,1
+Marseille,9,1
+Marseille,10,1
+Marseille,11,1
+Marseille,12,1
+Marseille,13,1
+Marseille,14,1
+Marseille,15,1
+Marseille,16,1
+Marseille,17,1
+Marseille,18,1
+Marseille,19,1
+Marseille,20,2
+Marseille,21,2
+Marseille,22,2
+Marseille,23,2
+Marseille,24,2
+Marseille,25,2
+Marseille,26,3
+Marseille,27,3
+Marseille,28,3
+Marseille,29,3
+Marseille,30,3
+Marseille,31,3
+Marseille,32,4
+Marseille,33,4
+Marseille,34,5
+Marseille,35,4
+Marseille,36,4
+Marseille,37,4
+Marseille,38,4
+Metz,1,12
+Metz,2,14
+Metz,3,18
+Metz,4,14
+Metz,5,17
+Metz,6,9
+Metz,7,6
+Metz,8,5
+Metz,9,9
+Metz,10,7
+Metz,11,10
+Metz,12,8
+Metz,13,9
+Metz,14,13
+Metz,15,13
+Metz,16,13
+Metz,17,14
+Metz,18,16
+Metz,19,17
+Metz,20,17
+Metz,21,17
+Metz,22,20
+Metz,23,20
+Metz,24,20
+Metz,25,20
+Metz,26,20
+Metz,27,20
+Metz,28,20
+Metz,29,20
+Metz,30,20
+Metz,31,19
+Metz,32,20
+Metz,33,19
+Metz,34,19
+Metz,35,19
+Metz,36,19
+Metz,37,19
+Metz,38,19
+Monaco,1,15
+Monaco,2,19
+Monaco,3,17
+Monaco,4,15
+Monaco,5,19
+Monaco,6,16
+Monaco,7,11
+Monaco,8,12
+Monaco,9,13
+Monaco,10,10
+Monaco,11,8
+Monaco,12,7
+Monaco,13,7
+Monaco,14,8
+Monaco,15,10
+Monaco,16,8
+Monaco,17,7
+Monaco,18,6
+Monaco,19,5
+Monaco,20,5
+Monaco,21,5
+Monaco,22,5
+Monaco,23,5
+Monaco,24,5
+Monaco,25,5
+Monaco,26,4
+Monaco,27,4
+Monaco,28,4
+Monaco,29,4
+Monaco,30,4
+Monaco,31,4
+Monaco,32,3
+Monaco,33,3
+Monaco,34,3
+Monaco,35,3
+Monaco,36,3
+Monaco,37,3
+Monaco,38,3
+Montpellier,1,16
+Montpellier,2,11
+Montpellier,3,5
+Montpellier,4,10
+Montpellier,5,6
+Montpellier,6,6
+Montpellier,7,9
+Montpellier,8,7
+Montpellier,9,7
+Montpellier,10,11
+Montpellier,11,13
+Montpellier,12,9
+Montpellier,13,13
+Montpellier,14,9
+Montpellier,15,9
+Montpellier,16,10
+Montpellier,17,8
+Montpellier,18,9
+Montpellier,19,10
+Montpellier,20,8
+Montpellier,21,6
+Montpellier,22,6
+Montpellier,23,6
+Montpellier,24,7
+Montpellier,25,7
+Montpellier,26,7
+Montpellier,27,5
+Montpellier,28,7
+Montpellier,29,7
+Montpellier,30,7
+Montpellier,31,7
+Montpellier,32,7
+Montpellier,33,7
+Montpellier,34,7
+Montpellier,35,7
+Montpellier,36,7
+Montpellier,37,7
+Montpellier,38,7
+Nantes,1,6
+Nantes,2,5
+Nantes,3,8
+Nantes,4,7
+Nantes,5,10
+Nantes,6,7
+Nantes,7,7
+Nantes,8,9
+Nantes,9,5
+Nantes,10,6
+Nantes,11,5
+Nantes,12,6
+Nantes,13,5
+Nantes,14,4
+Nantes,15,7
+Nantes,16,7
+Nantes,17,9
+Nantes,18,8
+Nantes,19,7
+Nantes,20,7
+Nantes,21,8
+Nantes,22,9
+Nantes,23,9
+Nantes,24,9
+Nantes,25,10
+Nantes,26,11
+Nantes,27,8
+Nantes,28,11
+Nantes,29,9
+Nantes,30,9
+Nantes,31,10
+Nantes,32,11
+Nantes,33,10
+Nantes,34,10
+Nantes,35,11
+Nantes,36,12
+Nantes,37,13
+Nantes,38,14
+Nice,1,4
+Nice,2,4
+Nice,3,9
+Nice,4,16
+Nice,5,11
+Nice,6,17
+Nice,7,12
+Nice,8,7
+Nice,9,11
+Nice,10,12
+Nice,11,7
+Nice,12,10
+Nice,13,12
+Nice,14,12
+Nice,15,12
+Nice,16,15
+Nice,17,11
+Nice,18,12
+Nice,19,12
+Nice,20,12
+Nice,21,10
+Nice,22,8
+Nice,23,8
+Nice,24,8
+Nice,25,9
+Nice,26,9
+Nice,27,13
+Nice,28,15
+Nice,29,16
+Nice,30,12
+Nice,31,13
+Nice,32,10
+Nice,33,11
+Nice,34,12
+Nice,35,13
+Nice,36,15
+Nice,37,12
+Nice,38,11
+Reims,1,10
+Reims,2,15
+Reims,3,19
+Reims,4,19
+Reims,5,18
+Reims,6,15
+Reims,7,18
+Reims,8,19
+Reims,9,16
+Reims,10,14
+Reims,11,14
+Reims,12,13
+Reims,13,10
+Reims,14,11
+Reims,15,8
+Reims,16,9
+Reims,17,10
+Reims,18,10
+Reims,19,9
+Reims,20,10
+Reims,21,11
+Reims,22,11
+Reims,23,12
+Reims,24,13
+Reims,25,14
+Reims,26,15
+Reims,27,15
+Reims,28,12
+Reims,29,13
+Reims,30,15
+Reims,31,16
+Reims,32,17
+Reims,33,14
+Reims,34,17
+Reims,35,17
+Reims,36,17
+Reims,37,14
+Reims,38,15
+Rennes,1,18
+Rennes,2,8
+Rennes,3,7
+Rennes,4,5
+Rennes,5,7
+Rennes,6,8
+Rennes,7,13
+Rennes,8,15
+Rennes,9,12
+Rennes,10,13
+Rennes,11,9
+Rennes,12,11
+Rennes,13,7
+Rennes,14,7
+Rennes,15,6
+Rennes,16,5
+Rennes,17,6
+Rennes,18,7
+Rennes,19,8
+Rennes,20,9
+Rennes,21,9
+Rennes,22,10
+Rennes,23,10
+Rennes,24,12
+Rennes,25,12
+Rennes,26,13
+Rennes,27,10
+Rennes,28,9
+Rennes,29,11
+Rennes,30,11
+Rennes,31,9
+Rennes,32,9
+Rennes,33,9
+Rennes,34,9
+Rennes,35,9
+Rennes,36,9
+Rennes,37,9
+Rennes,38,9
+ST Etienne,1,2
+ST Etienne,2,1
+ST Etienne,3,2
+ST Etienne,4,8
+ST Etienne,5,4
+ST Etienne,6,3
+ST Etienne,7,3
+ST Etienne,8,6
+ST Etienne,9,10
+ST Etienne,10,5
+ST Etienne,11,4
+ST Etienne,12,5
+ST Etienne,13,6
+ST Etienne,14,6
+ST Etienne,15,5
+ST Etienne,16,4
+ST Etienne,17,4
+ST Etienne,18,4
+ST Etienne,19,4
+ST Etienne,20,3
+ST Etienne,21,4
+ST Etienne,22,4
+ST Etienne,23,4
+ST Etienne,24,4
+ST Etienne,25,4
+ST Etienne,26,5
+ST Etienne,27,6
+ST Etienne,28,5
+ST Etienne,29,5
+ST Etienne,30,5
+ST Etienne,31,5
+ST Etienne,32,5
+ST Etienne,33,5
+ST Etienne,34,4
+ST Etienne,35,5
+ST Etienne,36,5
+ST Etienne,37,5
+ST Etienne,38,5
+Toulouse,1,14
+Toulouse,2,12
+Toulouse,3,14
+Toulouse,4,12
+Toulouse,5,15
+Toulouse,6,14
+Toulouse,7,10
+Toulouse,8,11
+Toulouse,9,8
+Toulouse,10,9
+Toulouse,11,12
+Toulouse,12,14
+Toulouse,13,11
+Toulouse,14,14
+Toulouse,15,14
+Toulouse,16,11
+Toulouse,17,13
+Toulouse,18,15
+Toulouse,19,14
+Toulouse,20,15
+Toulouse,21,16
+Toulouse,22,17
+Toulouse,23,14
+Toulouse,24,17
+Toulouse,25,17
+Toulouse,26,18
+Toulouse,27,18
+Toulouse,28,18
+Toulouse,29,18
+Toulouse,30,18
+Toulouse,31,18
+Toulouse,32,18
+Toulouse,33,15
+Toulouse,34,14
+Toulouse,35,16
+Toulouse,36,16
+Toulouse,37,17
+Toulouse,38,17
